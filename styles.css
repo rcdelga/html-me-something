@@ -55,13 +55,11 @@ img {
 .gridb {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    height: 400px;
-    justify-items: center;
-    
 }
 
 .gridb img {
-    height: 100%;
+    width: 90%;
+
 }
 
 footer {
