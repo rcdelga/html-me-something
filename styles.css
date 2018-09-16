@@ -7,7 +7,7 @@ html {
 }
 
 body {
-    background: #111;
+    background: #222;
     max-width: 1000px;
     margin: auto;
     padding: 3%;
@@ -60,7 +60,6 @@ img {
 
 .gridb img {
     height: 400px;
-
 }
 
 footer {
