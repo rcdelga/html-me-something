@@ -65,3 +65,23 @@ img {
 footer {
     text-align: center;
 }
+
+ul {
+    text-align: center;
+}
+
+ul li {
+    display: inline;
+    align-items: center;
+}
+
+li a {
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+    margin-right: 5%;
+}
+
+li a:hover {
+    color: orange;
+}
